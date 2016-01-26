@@ -1,0 +1,10 @@
+C:\Users\Tea\AppData\Local\Temporary Projects\Yoshi Magic\bin\Debug\Yoshi Magic.exe.config
+C:\Users\Tea\Documents\Visual Studio 2012\Projects\Yoshi Magic\Yoshi Magic\bin\Debug\Yoshi Magic.exe.config
+C:\Users\Tea\Documents\Visual Studio 2012\Projects\Yoshi Magic\Yoshi Magic\bin\Debug\Yoshi Magic.exe
+C:\Users\Tea\Documents\Visual Studio 2012\Projects\Yoshi Magic\Yoshi Magic\bin\Debug\Yoshi Magic.pdb
+C:\Users\Tea\Documents\Visual Studio 2012\Projects\Yoshi Magic\Yoshi Magic\obj\Debug\Yoshi_Magic.Form1.resources
+C:\Users\Tea\Documents\Visual Studio 2012\Projects\Yoshi Magic\Yoshi Magic\obj\Debug\Yoshi_Magic.Properties.Resources.resources
+C:\Users\Tea\Documents\Visual Studio 2012\Projects\Yoshi Magic\Yoshi Magic\obj\Debug\Yoshi Magic.csproj.GenerateResource.Cache
+C:\Users\Tea\Documents\Visual Studio 2012\Projects\Yoshi Magic\Yoshi Magic\obj\Debug\Yoshi Magic.exe
+C:\Users\Tea\Documents\Visual Studio 2012\Projects\Yoshi Magic\Yoshi Magic\obj\Debug\Yoshi Magic.pdb
+C:\Users\Tea\Documents\Visual Studio 2012\Projects\Yoshi Magic\Yoshi Magic\obj\Debug\Yoshi Magic.csprojResolveAssemblyReference.cache
